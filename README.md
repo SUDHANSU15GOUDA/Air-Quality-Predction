@@ -1,1 +1,1 @@
-# Drug-Activity-Prediction
+# Drug Activity Prediction
