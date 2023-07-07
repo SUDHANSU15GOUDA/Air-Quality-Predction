@@ -1,1 +1,1 @@
-# Air Quality Index Predction
+# Air Quality Predction
