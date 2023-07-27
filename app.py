@@ -106,9 +106,4 @@ if selected == 'Contact us':
 
 
 
-# Good 7 50
-# Moderate 51 99
-# Unhealthy for Sensitive Groups 100 149
-# Unhealthy 150 200
-# Very Unhealthy 201 296
-# Hazardous 301 500
+
