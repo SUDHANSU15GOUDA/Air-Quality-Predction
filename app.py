@@ -67,9 +67,9 @@ if selected == 'Predection Page':
     
     select_ozone = st.slider('Ozone',min_value = 0,max_value = 222,step = 1,value = 111)
     
-    select_no2 = st.slider('No2',min_value = 0,max_value = 94,step = 1,value = 47)
+    select_no2 = st.slider('NO2',min_value = 0,max_value = 94,step = 1,value = 47)
     
-    select_pm= st.slider('Pm2.5',min_value = 0,max_value = 500,step = 1,value = 250)
+    select_pm= st.slider('PM2.5',min_value = 0,max_value = 500,step = 1,value = 250)
     
     
     
